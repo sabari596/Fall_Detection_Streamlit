@@ -8,7 +8,7 @@ import os
 # =========================
 # CONFIGURATION
 # =========================
-API_KEY = "m6z2o0oEtSue3wntgioc"
+API_KEY = "m6z2o0oEt" #Enter your ROBOFLOW key
 PROJECT_ID = "fall-detection-mbldh"
 MODEL_VERSION = "1"
 INFERENCE_URL = f"https://detect.roboflow.com/{PROJECT_ID}/{MODEL_VERSION}?api_key={API_KEY}"
